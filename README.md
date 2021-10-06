@@ -10,8 +10,8 @@ pytorch geometric 의 graph type으로 변환해주었다.
 
 ### Model
 
-사용한 model 은 CGConv이다.
-[CGCN-리뷰](https://github.com/hybyun0121/gnn-pr/blob/main/paper-review/CGCNN-리뷰.pdf)
+사용한 model 은 CGConv이다.  
+[CGCN-리뷰](https://github.com/hybyun0121/gnn-pr/blob/main/paper-review/CGCNN-리뷰.pdf) 
 [CGConv- PyG](https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/nn/conv/cg_conv.html#CGConv)
 
 ### run code
